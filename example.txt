@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=QfNvhPx5Px8
 create /tf_files/fruit directory
 create /tf_files/fruit/data directory
 create pear and apple in directories in data dir and fill with images
