@@ -1,0 +1,7 @@
+create /tf_files/fruit directory
+create /tf_files/fruit/data directory
+create pear and apple in directories in data dir and fill with images
+train:
+./train.sh /tf_files/fruit/
+label:
+python label.py fruit fruit/data/apple/images.jpg

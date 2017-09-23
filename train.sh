@@ -1,0 +1,1 @@
+python /tensorflow/tensorflow/examples/image_retraining/retrain.py --bottleneck_dir=$1/bottlenecks --how_many_training_steps=500 --model_dir=/tf_files/inception --output_graph=$1/retrained_graph.pb --output_labels=$1/retrained_labels.txt --image_dir=$1/data
